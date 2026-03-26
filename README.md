@@ -1,2 +1,21 @@
-# customer-behavior-analysis
-Analyzed 3,900+ transactions using Python and SQL to identify customer behavior and revenue trends. Built a Power BI dashboard to visualize insights and support data-driven business decisions.
+# Customer Purchase Behavior Analysis
+
+## Overview
+This project analyzes customer shopping behavior to identify patterns, customer segments, and revenue trends.
+
+## Tools Used
+- Python (Pandas, NumPy)
+- SQL
+- Power BI
+
+## Key Insights
+- Identified high-value customer segments
+- Analyzed impact of discounts on sales
+- Found key product preferences
+
+## Files
+- analysis.ipynb → Data analysis
+- dashboard.pbix → Power BI dashboard
+
+## Outcome
+Provided insights to improve customer engagement and business decision-making.
